@@ -1,8 +1,6 @@
 # lovr-window
  LOVR-window library translated into typescript for TSTL.
 
-To install, run this in the root of your project:
+To install, drop this into your game's folder. :)
 
-```
-npm i --save-dev lovr-window
-```
+You can see the original here: https://github.com/Papaew/lovr-window
