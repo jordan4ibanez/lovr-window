@@ -1,6 +1,6 @@
 {
   "name": "lovr-window",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "LOVR-window library translated into typescript for TSTL.",
   "main": "lovr-window.ts",
   "scripts": {
